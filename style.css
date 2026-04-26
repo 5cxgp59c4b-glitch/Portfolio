@@ -138,6 +138,7 @@ footer {
     }
     header .wrapper {
         flex-direction: column;
+        justify-content: center;
         gap: 1rem;
     }
     #project ul {
