@@ -141,6 +141,9 @@ footer {
         justify-content: center;
         gap: 1rem;
     }
+    header .right ｛
+        display: none;
+    ｝
     #project ul {
         flex-direction: column;
         justify-content: center;
